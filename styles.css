@@ -1,0 +1,24 @@
+/*styles.css */
+
+* {
+    background-color: lightgray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.recipePreview {
+    width: 300px;
+    height: auto;
+}
+
+ol,
+ul {
+    color: blue;
+}
+
+ul {
+    list-style-type: square;
+}
+
+ol {
+    list-style-type: upper-roman;
+}
